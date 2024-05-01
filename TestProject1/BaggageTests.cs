@@ -24,6 +24,7 @@ public class BaggageTests
         Assert.AreEqual(passenger, baggage.Owner);
         Assert.IsFalse(baggage.ContainsProhibitedItems);
     }
+    
 
     [Test]
     public void AddProhibitedItem_SetsProhibitedItemsTrue()

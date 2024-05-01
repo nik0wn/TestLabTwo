@@ -12,3 +12,4 @@ C:\Users\nekit\OneDrive\Рабочий стол\Учеба\lab2\lab2\lab2\obj\De
 C:\Users\nekit\OneDrive\Рабочий стол\Учеба\lab2\lab2\lab2\obj\Debug\net8.0\lab2.pdb
 C:\Users\nekit\OneDrive\Рабочий стол\Учеба\lab2\lab2\lab2\obj\Debug\net8.0\lab2.genruntimeconfig.cache
 C:\Users\nekit\OneDrive\Рабочий стол\Учеба\lab2\lab2\lab2\obj\Debug\net8.0\ref\lab2.dll
+C:\Users\nekit\OneDrive\Рабочий стол\Учеба\lab2\lab2\lab2\obj\Debug\net8.0\lab2.sourcelink.json
