@@ -103,3 +103,4 @@ C:\Users\nekit\OneDrive\Рабочий стол\Учеба\lab2\lab2\TestProject
 C:\Users\nekit\OneDrive\Рабочий стол\Учеба\lab2\lab2\TestProject1\obj\Debug\net8.0\TestProject1.genruntimeconfig.cache
 C:\Users\nekit\OneDrive\Рабочий стол\Учеба\lab2\lab2\TestProject1\obj\Debug\net8.0\ref\TestProject1.dll
 C:\Users\nekit\OneDrive\Рабочий стол\Учеба\lab2\lab2\TestProject1\bin\Debug\net8.0\CoverletSourceRootsMapping
+C:\Users\nekit\OneDrive\Рабочий стол\Учеба\lab2\lab2\TestProject1\obj\Debug\net8.0\TestProject1.sourcelink.json
