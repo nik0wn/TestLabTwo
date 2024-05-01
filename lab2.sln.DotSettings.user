@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\nekit\.nuget\packages\nunit\4.1.0\lib\net6.0\nunit.framework.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=86475c74_002D0a97_002D4835_002D9013_002D57d3670ad80c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Passenger_NotDuplicatedInFlight" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::20F76697-282E-4487-B314-646C57C03DAA::net8.0::AirportTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::20F76697-282E-4487-B314-646C57C03DAA::net8.0::BaggageTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::20F76697-282E-4487-B314-646C57C03DAA::net8.0::CheckInDeskTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::20F76697-282E-4487-B314-646C57C03DAA::net8.0::FlightTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	</wpf:ResourceDictionary>
